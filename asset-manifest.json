@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OMDB-API/static/css/main.e04826b3.css",
+    "main.js": "/OMDB-API/static/js/main.9fff967f.js",
+    "static/js/845.2b6cb2c3.chunk.js": "/OMDB-API/static/js/845.2b6cb2c3.chunk.js",
+    "index.html": "/OMDB-API/index.html",
+    "main.e04826b3.css.map": "/OMDB-API/static/css/main.e04826b3.css.map",
+    "main.9fff967f.js.map": "/OMDB-API/static/js/main.9fff967f.js.map",
+    "845.2b6cb2c3.chunk.js.map": "/OMDB-API/static/js/845.2b6cb2c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e04826b3.css",
+    "static/js/main.9fff967f.js"
+  ]
+}
